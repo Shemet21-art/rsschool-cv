@@ -10,7 +10,7 @@ Ayoungambitiousman.IhavebeendreamingabouttheItspherefora longtime
 
 **WORK  EXP ERI EN CE**
 
-Zaporozhye,street40 anniversaryofvictory15.
+Zaporozhye,street43 anniversaryofvictory15.
 
 ProjectimplementationmanagerLtd"AIK-eco"2017- shemetttttttt8@gmail.com 2020:
 
