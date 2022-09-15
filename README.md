@@ -1,1 +1,2 @@
-https://Shemet21-art.github.io/rsschool-cv/
+
+https://Shemet21-art.github.io/rsschool-cv/cv
