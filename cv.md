@@ -1,32 +1,52 @@
-﻿**SHEMET IGOR ![](Aspose.Words.378173ec-92ac-43ef-9749-c5e2e4bb3232.001.png)![](Aspose.Words.378173ec-92ac-43ef-9749-c5e2e4bb3232.002.png)**
+#Shemet Ihor
+### Junior Frontend Developer
 
-**F U TU RE  WEB  D EVELOP ER**
+---
 
-**P ERS ON AL  D ATA**
+### Contact information:
 
-Ayoungambitiousman.IhavebeendreamingabouttheItspherefora longtimeandhaveapenchantforthem.
+**Phone:** +38 066 212 333 7 <br>
+**E-mail:** shemetttttttt8@@gmail.com<br>
 
-**CON TACT  ME**
+---
 
-**WORK  EXP ERI EN CE**
 
-Zaporozhye,street43 anniversaryofvictory15.
 
-ProjectimplementationmanagerLtd"AIK-eco"2017- shemetttttttt8@gmail.com 2020:
+### Skills and Proficiency:
 
-number+380662123337 designofgascleaningequipment
+- HTML5, CSS3, js, bootstrap, react
+- JavaScript Basics
+- Git, GitHub
+- VS Code, IntelliJ IDEA
+- Adobe Photoshop, Illustrator, InDesign
 
-ProjectmanagerLtd"Aiss-group"2017-2020: suppliesofequipmentinUkraineandabroad
+---
 
-**ACAD EMI C  S U MMARY** 
+### Code example:
 
-MikhailovskyCollege№522010-2013
+**Peak array index KATA from CODEWARS:**
+*Given an array of ints, return the index such that the sum of the elements to the right of that index equals the sum of the elements to the left of that index. If there is no such index, return -1. If there is more than one such index, return the left-most index.*
 
-computeroperator'sdiploma
+```javascript
+function peak(arr) {
 
-- professionalskillsinworkingwithMicrosoftoffices.
-  - basicskillshtmlcssjavascript
+  for (let i = 1; i < arr.length - 1; i++) {
+    let leftSum = arr.slice(0, i).reduce((accumulator, currentValue) => accumulator + currentValue);
+    let rightSum = arr.slice(i + 1).reduce((accumulator, currentValue) => accumulator + currentValue);
+    if (leftSum === rightSum) {
+      return i;
+    }
+  }
+  return -1;
+}
+```
+---
 
-ZaporozhyeTechnicalUniversity2013-2019
-master'sdegree:designengineer
 
+
+### Languages:
+
+- English \- B1
+- Russian \- Native
+- Ukrainian \- Intermediate
+- Polish \- Basic
