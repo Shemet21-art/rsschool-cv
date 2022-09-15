@@ -28,5 +28,5 @@ computeroperator'sdiploma
   - basicskillshtmlcssjavascript
 
 ZaporozhyeTechnicalUniversity2013-2019
-
 master'sdegree:designengineer
+
